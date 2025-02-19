@@ -1,0 +1,14 @@
+nxtgen-IP is a software api written in python_3
+It can be used to g€t your phone's ip{internet prot0c0l} locally also
+your ip wouldn't be returned to any database { genuineness📮 }
+It can also be used to tr@¢k and g€t detailed infor.mat.ion in relation to an ip ad.dress {192.168.0.00}
+Request and https modules are at the latest version... Efficiency and Accuracy is 100% certain.
+Use this tool for legal tr@¢k!ng and educational ip lo.ok-up tutorials
+Free for all....ENJOY
+
+Installation procedure for android terminals( TERMUX ) :>> rm -rf cybernetics-whitehack
+>> python3 -m pip install requests bs4
+>> python3 -m pip install mechanize
+>> git clone https://github.com/harkerbyte/cybernetics-whitehack
+>> cd cybernetics-whitehack
+>> python3 fb.py 
